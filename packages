@@ -1,6 +1,7 @@
 # List packages to add to your image one per line.
 nginx
 py27-gunicorn
+py27-sqlite3
 py27-pip
 py27-passlib
 py27-OpenSSL
