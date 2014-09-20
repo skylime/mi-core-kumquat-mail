@@ -1,0 +1,8 @@
+name="core-kumquat-mail"
+organization="SkyLime"
+brand="Instance"
+version="14.2.0"
+description="Minimal web frontend to manage email accounts"
+homepage="https://github.com/skylime/mi-core-kumquat-mail"
+users="root admin"
+base="6babbf24-3765-11e4-a87a-23e846a65e81"
