@@ -28,9 +28,6 @@ INSTALLED_APPS = (
 	'bootstrap3',
 	'messagegroups',
 	'kumquat',
-	'web',
-	'mysql',
-	'ftp',
 	'status',
 	'mail',
 )
