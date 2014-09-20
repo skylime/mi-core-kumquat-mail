@@ -39,6 +39,11 @@ echo "* Copy default (basic) kumquat settings"
 cp /tmp/kumquat-settings.py /opt/kumquat/kumquat_web/settings.py
 rm /tmp/kumquat-settings.py
 
+# Copy new kumquat base.html template
+echo "* Copy new kumquat base.html template"
+cp /tmp/kumquat-templates-base.html /opt/kumquat/templates/base.html
+rm /tmp/kumquat-templates-base.html
+
 echo "* Cleaning up"
 rm -rf /root/*
 sm-prepare-image -y

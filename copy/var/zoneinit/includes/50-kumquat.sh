@@ -40,4 +40,4 @@ echo "from django.contrib.auth.models import User; User.objects.create_superuser
 	| /opt/kumquat/manage.py shell
 
 # Be sure database permissions are correct
-chown www:www /var/sqlite/kumquat.sqlite3
+chown -R www:www /var/sqlite/
