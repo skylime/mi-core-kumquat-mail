@@ -30,6 +30,10 @@ echo "* Setup gunicorn"
 mkdir -p /opt/local/etc/gunicorn
 svccfg import /tmp/gunicorn.xml
 
+# Create nginx ssl folder
+echo "* Create nginx ssl folder"
+mkdir -p /opt/local/etc/nginx/ssl
+
 # Copy default (basic) kumquat settings
 echo "* Copy default (basic) kumquat settings"
 cp /tmp/kumquat-settings.py /opt/kumquat/kumquat_web/settings.py
