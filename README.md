@@ -16,6 +16,7 @@ provision state. We recommend a valid `kumquat_ssl` certificate.
 - `kumquat_ssl`: ssl certificate for kumquat web interface
 - `kumquat_admin`: admin password for kumquat interface
 - `core_mail_token`: mail export token from kumquat
+- `core_mail_whitelist`: mail whitelist for all accounts
 
 ## services
 
