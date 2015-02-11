@@ -4,6 +4,7 @@
 
 ### Other
 
+* fix config file generator. [Thomas Merkel]
 * Kumquat version upgrade and enabling the CORE_MAIL_WHITELIST feature. [Thomas Merkel]
 * update kumquat version. [Thomas Merkel]
 
