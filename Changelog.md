@@ -1,5 +1,12 @@
 # Changelog
 
+## 14.2.3
+
+### Other
+
+* Kumquat version upgrade and enabling the CORE_MAIL_WHITELIST feature. [Thomas Merkel]
+* update kumquat version. [Thomas Merkel]
+
 ## 14.2.2
 
 ### New
